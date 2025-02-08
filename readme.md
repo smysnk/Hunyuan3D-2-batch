@@ -1,4 +1,4 @@
-# Hunyuan3D 2.0 Integration Helper
+# Batch Scripts for Hunyuan3D 2.0
 
 This repository contains helper scripts to integrate with [Hunyuan3D 2.0](https://github.com/Tencent/Hunyuan3D-2) via its HTTP API. It includes:
 
@@ -24,7 +24,7 @@ This helper repository focuses on:
    - In your existing Hunyuan3D-2 directory:
      ```bash
      cd /path/to/Hunyuan3D-2
-     git clone https://your_repo.git Hunyuan3D-2-helpers
+     git clone git@github.com:smysnk/Hunyuan3D-2-batch.git Hunyuan3D-2-helpers
      ```
    - You should now have a `Hunyuan3D-2-helpers` folder containing `api_server.py` and `generate_glb.py`.
 2. **Dependencies:**
