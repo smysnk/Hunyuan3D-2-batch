@@ -1,6 +1,6 @@
 # Hunyuan3D 2.0 Integration Helper
 
-This repository contains helper scripts to integrate with the [Hunyuan3D 2.0 system](https://github.com/Tencent/Hunyuan3D-2) via its HTTP API. It includes a command-line interface for bulk processing of images into 3D assets and optional upscaling.
+This repository contains helper scripts to integrate with the [Hunyuan3D 2.0](https://github.com/Tencent/Hunyuan3D-2) via its HTTP API. It includes a command-line interface for bulk processing of images into 3D assets and optional upscaling.
 
 ## Overview
 
